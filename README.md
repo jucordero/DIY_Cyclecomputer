@@ -15,6 +15,7 @@ A few renders and finished prototype
 
 ![alt text](https://github.com/jucordero/DIY_Cyclecomputer/blob/master/Electronica.png)
 ![alt text](https://github.com/jucordero/DIY_Cyclecomputer/blob/master/Completo.png)
+![alt text](https://github.com/jucordero/DIY_Cyclecomputer/blob/master/Prototipo.png)
 
 'Electronics' folder contains the KiCAD schematics and board files to creathe the main PCB along with the required components to populate it. I'm also including all the libraries used for the not standard parts (GPS, 23-pin screen FPC cable socket, Feather M0, etc.)
 
