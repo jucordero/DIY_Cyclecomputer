@@ -16,3 +16,5 @@ https://www.buydisplay.com/default/serial-spi-240x120-touch-panel-graphic-lcd-co
 It uses a standard SPI interface and a not so standard 23-pin FPC connector with a 0.5 mm pitch.
 
 ![alt text](https://github.com/jucordero/DIY_Cyclecomputer/blob/master/Electronics/PCB.png)
+![alt text](https://github.com/jucordero/DIY_Cyclecomputer/blob/master/Electronics/Top_render.png)
+![alt text](https://github.com/jucordero/DIY_Cyclecomputer/blob/master/Electronics/Bottom_render.png)
