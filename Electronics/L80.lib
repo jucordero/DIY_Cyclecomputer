@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# L80
+#
+DEF L80 U 0 40 Y Y 1 L N
+F0 "U" -500 630 50 H V L BNN
+F1 "L80" -500 -700 50 H V L BNN
+F2 "GPSMODULE_L80" 0 0 50 H I L BNN
+F3 "None" 0 0 50 H I L BNN
+F4 "Quectel" 0 0 50 H I L BNN
+F5 "Unavailable" 0 0 50 H I L BNN
+F6 "L80" 0 0 50 H I L BNN
+F7 "Gps Module + Mt3339 + Antenna Embedded" 0 0 50 H I L BNN
+F8 "None" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -500 600 500 600 N
+P 2 0 0 10 500 600 500 -600 N
+P 2 0 0 10 500 -600 -500 -600 N
+P 2 0 0 10 -500 -600 -500 600 N
+X TIMER 7 700 0 200 L 40 40 0 0 O 
+X AADET_N 8 700 -300 200 L 40 40 0 0 B 
+X RESET 10 -700 200 200 R 40 40 0 0 I 
+X EXT_ANT 11 -700 0 200 R 40 40 0 0 I 
+X RXD1 1 -700 -200 200 R 40 40 0 0 I 
+X TXD1 2 -700 -300 200 R 40 40 0 0 O 
+X GND 3 700 -500 200 L 40 40 0 0 W 
+X GND 12 700 -500 200 L 40 40 0 0 W 
+X VCC 4 700 500 200 L 40 40 0 0 W 
+X V_BCKP 5 700 400 200 L 40 40 0 0 W 
+X 1PPS 6 700 200 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library
