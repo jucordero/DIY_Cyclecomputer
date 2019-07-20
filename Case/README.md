@@ -1,7 +1,7 @@
 # Case
 
 The case was created using Fusion 360.
-It is made up of 5 bodies:
+It is made up 5 bodies:
 
 1. Main case
 2. Back lid
