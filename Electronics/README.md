@@ -14,3 +14,5 @@ The next step is to use the lower profile Quectel L70 plus a chip antenna (GPS10
 Display module is the East Rising 240 x 120 monochrome LCD display
 https://www.buydisplay.com/default/serial-spi-240x120-touch-panel-graphic-lcd-cog-display-connector-fpc
 It uses a standard SPI interface and a not so standard 23-pin FPC connector with a 0.5 mm pitch.
+
+![alt text](https://github.com/jucordero/DIY_Cyclecomputer/blob/master/Electronics/PCB.png)
